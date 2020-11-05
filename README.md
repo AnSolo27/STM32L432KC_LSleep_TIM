@@ -1,4 +1,4 @@
-# Low power sleep Uart
+# Low power sleep TIM
 In this example Nucleo-L432KC board is used.
 After 5 seconds MCU goes to low power sleep.
 
